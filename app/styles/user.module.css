@@ -1,0 +1,18 @@
+.text{
+    color:blue;
+    height:12cm;
+    background-color: aqua;
+    justify-items: center;
+
+}
+.heading{
+    color: black;
+
+}
+.text2{
+    color:black;
+    height: 3cm;
+    background-color: aqua;
+    justify-items:left; 
+
+}
